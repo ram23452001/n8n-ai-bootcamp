@@ -5,8 +5,9 @@ Submitted: 2026-02-09T22:03:19.074+01:00
 Description:
 User Tobias reports that their laptop fell down. Potential hardware damage needs to be assessed.
 
-Status: Closed
+Status: Open
 Prio: Urgent
 
 Activity Log:
 2026-02-09T22:15:00.000+01:00 - User reported the laptop is working fine. Ticket closed at user's request.
+2025-05-14T12:00:19.508+02:00 - User reported the laptop stopped working again. Ticket reopened. Escalated to human IT technician for hardware assessment.
